@@ -1,9 +1,11 @@
 **GYNO-BOT**
 
 **Problem statement:**
+
 Every woman and girl go through the unpleasant phase called the menstruation period in her life. Many were not aware of taking care of themselves at this time. Few women and girls feel insecure and uncomfortable discussing this with their family or friends.
 
 **Solution:**
+
 Gyno-Bot is a simple chat bot used to provide basic information about menstruation. It was created using various Azure services like Azure bot service (Web app bot), QnA Maker, App service, and Html, hosted on GitHub pages. As many women and girls feel uncomfortable discussing menstruation problems with their family and friends, Gyno-Bot helps them answer all the basic questions about menstruation. It also provides the best caring procedures to follow during the menstruation period.
 
 
